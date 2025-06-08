@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hello! I'm Your Name
+
+Welcome to my GitHub profile.
+
+## 🌱 Current Focus
+- Frontend Mentor Challenges
+- Learning React and accessibility best practices
+
 
 <!--
 **kantamana/kantamana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
